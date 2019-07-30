@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](http://www.o519.com/my-github-repos)
+* [关于 solo 中使用 vditor 的几个疑问](http://www.o519.com/articles/2019/07/29/1564386986801.html)
 * [Linux目录结构详细介绍](http://www.o519.com/articles/2019/07/28/1564297999074.html)
 * [世界，你好！](http://www.o519.com/hello-solo)
 
