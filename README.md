@@ -10,9 +10,10 @@
 
 ### 最新
 
+* [博客文章没同步到社区，看到 log 中有一个报错，只是链接关闭的，发生文章是成功的了。。。](https://www.o519.com/articles/2019/08/11/1564300485789.html)
+* [test](https://www.o519.com/articles/2019/08/11/1565523765992.html)
 * [关于 solo 中使用 vditor 的几个疑问](https://www.o519.com/articles/2019/07/29/1564386986801.html)
 * [Linux目录结构详细介绍](https://www.o519.com/articles/2019/07/28/1564297999074.html)
-* [世界，你好！](https://www.o519.com/hello-solo)
 
 
 
