@@ -1,9 +1,9 @@
-<p align="center"><img alt="云笔记" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-云笔记
+<p align="center"><img alt="絮絮叨叨" src="https://www.o519.com/images/favicon.png"></p><h2 align="center">
+絮絮叨叨
 </h2>
 
-<h4 align="center">走一步看一步咯</h4>
-<p align="center"><a title="云笔记" target="_blank" href="https://github.com/lisaem/solo-blog"><img src="https://img.shields.io/github/last-commit/lisaem/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center"></h4>
+<p align="center"><a title="絮絮叨叨" target="_blank" href="https://github.com/lisaem/solo-blog"><img src="https://img.shields.io/github/last-commit/lisaem/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/lisaem/solo-blog"><img src="https://img.shields.io/github/repo-size/lisaem/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.3-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/lisaem/solo-blog.svg"></a></p>
